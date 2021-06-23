@@ -220,15 +220,15 @@ color: #FFFFFF;
     
 
   }
- .advantages
+  ul.advantages
   {
     display: inline; 
-    margin: 0; /* Обнуляем значение отступов */
+    margin: 5px; /* Обнуляем значение отступов */
     padding: 0px; /* Значение полей */
     margin-left: 0px;
   color: #212121;
   }
- .advantages li
+ ul.advantages li
   {
     display:inline; /* Отображать как строчный элемент */
     margin-right: 5px; /* Отступ слева */

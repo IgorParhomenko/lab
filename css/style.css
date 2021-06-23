@@ -5,8 +5,6 @@ width: 1600px;
 height: 2349px;
 background: #FFFFFF;
 }
-
-
 .header {
   position: absolute;
   width: 1600px;
@@ -14,7 +12,6 @@ background: #FFFFFF;
   margin-left: 0px;
   margin-top: 0px;
   background-color: rgb(255, 255, 255);
- 
 }
 .webstudio {
 position: absolute;
@@ -22,7 +19,6 @@ width: 145px;
 height: 31px;
 left: 215px;
 top: 24px;
-
   text-decoration: none;
   font-style: normal;
   font-size: 26px;
@@ -49,7 +45,6 @@ width: 294px;
 height: 16px;
 left: 453px;
 top: 35px;
-
 font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -76,26 +71,18 @@ font-family: Roboto;
 }
 .studio-link
 {text-decoration: none;
-  
   color: #2196F3;
-
-
 }
 .portfolio
 {text-decoration: none;
   font-family: Roboto;
-
   margin-left: 45px;
-
 color: #212121;
 }
 .Contacts
 {text-decoration: none;
-  
 margin-left: 45px;
-
 color: #212121;
-
 }
 .cr {
   margin: 0; /* Обнуляем значение отступов */
@@ -122,17 +109,13 @@ color: #212121;
   height: 16px;
   left: 1078px;
   top: 32px;
-  
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-  
   color: #2196F3;
-  
-
 }
 .tel
 {
@@ -142,14 +125,12 @@ width: 122px;
 height: 16px;
 left: 1263px;
 top: 32px;
-
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
-
 color: #757575;
 }
 .hero
@@ -160,7 +141,6 @@ color: #757575;
   height: 600px;
   left: 0px;
   top: 80px;
-  
   background: #2F303A;
   }
   .slogan
@@ -176,23 +156,19 @@ font-weight: 900;
 font-size: 44px;
 line-height: 60px;
 /* or 136% */
-
 text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
-
 color: #FFFFFF;
   }
   .batton
   {
     /* Button */
-
     position: relative;
     width: 200px;
     height: 50px;
     left: 700px;
     top: 350px;
-    
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
@@ -203,28 +179,23 @@ color: #FFFFFF;
     height: 30px;
     left: 32px;
     top: 9px;
-    
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 16px;
     /* identical to box height, or 187% */
-    
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
-    
     color: #FFFFFF;
-    
-
   }
   .advantages ul
-  {
+ {
     display: inline; 
     margin: 5px; /* Обнуляем значение отступов */
-    padding: 0px; /* Значение полей */
+    padding: 1px; /* Значение полей */
     margin-left: 0px;
   color: #212121;
   }

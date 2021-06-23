@@ -199,7 +199,7 @@ color: #FFFFFF;
     margin-left: 0px;
   color: #212121;
   }
- .advantages ul li
+ .advantages li
   {
     display:inline; /* Отображать как строчный элемент */
     margin-right: 5px; /* Отступ слева */

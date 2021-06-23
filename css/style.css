@@ -220,14 +220,14 @@ color: #FFFFFF;
     
 
   }
-  .futures
+ ul .futures
   {
     margin: 0; /* Обнуляем значение отступов */
   padding: 0px; /* Значение полей */
  margin-left: 0px;
   color: #212121;
   }
-  .futures li
+ li .futures
   {
     display: inline; /* Отображать как строчный элемент */
     margin-right: 5px; /* Отступ слева */

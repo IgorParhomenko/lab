@@ -239,8 +239,3 @@ color: #FFFFFF;
     line-height: 16px;
     letter-spacing: 0.02em;
   }
-  .hr_fu ul
-{
-margin: 0; /* Обнуляем значение отступов */
-    padding: 4px; /* Значение полей */
-}

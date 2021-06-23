@@ -230,6 +230,6 @@ color: #FFFFFF;
   }
  .advantages li
   {
-    display: inline; /* Отображать как строчный элемент */
+    display:inline; /* Отображать как строчный элемент */
     margin-right: 5px; /* Отступ слева */
   }

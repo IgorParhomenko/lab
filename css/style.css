@@ -231,11 +231,4 @@ color: #FFFFFF;
   {
     display: inline; /* Отображать как строчный элемент */
     margin-right: 5px; /* Отступ слева */
-    padding: 3px; /* Поля вокруг текста */
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
   }

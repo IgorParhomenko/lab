@@ -67,12 +67,7 @@ font-family: Roboto;
   display: inline; /* Отображать как строчный элемент */
   margin-right: 0px; /* Отступ слева */
   padding: 0px; /* Поля вокруг текста */
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
+  
 }
 .studio-link
 {text-decoration: none;

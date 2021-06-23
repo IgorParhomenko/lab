@@ -222,6 +222,7 @@ color: #FFFFFF;
   }
  .futures
   {
+    display: inline; 
     margin: 0; /* Обнуляем значение отступов */
     padding: 0px; /* Значение полей */
     margin-left: 0px;

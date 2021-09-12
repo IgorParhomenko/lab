@@ -1,9 +1,9 @@
 /* Верхняя линия */
-body{
-position: absolute;
-width: 1600px;
-height: 2349px;
-background: #FFFFFF;
+body {
+  position: absolute;
+  width: 1600px;
+  height: 2349px;
+  background: #ffffff;
 }
 .header {
   position: absolute;
@@ -14,38 +14,36 @@ background: #FFFFFF;
   background-color: rgb(255, 255, 255);
 }
 .webstudio {
-position: absolute;
-width: 145px;
-height: 31px;
-left: 215px;
-top: 24px;
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
   text-decoration: none;
   font-style: normal;
   font-size: 26px;
   letter-spacing: 0.03em;
 }
-.web
- {
+.web {
   font-family: Raleway;
-   font-weight: 700;
+  font-weight: 700;
   line-height: 31px;
-  color: #2196F3;
+  color: #2196f3;
 }
-.studio
-{
+.studio {
   font-family: Raleway;
   font-weight: 700;
   line-height: 36px;
-  color:black;  
+  color: black;
 }
-.nav{
+.nav {
   /* Menu Nav */
   position: absolute;
-width: 294px;
-height: 16px;
-left: 453px;
-top: 35px;
-font-family: Roboto;
+  width: 294px;
+  height: 16px;
+  left: 453px;
+  top: 35px;
+  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -55,7 +53,7 @@ font-family: Roboto;
 .hr {
   margin: 0; /* Обнуляем значение отступов */
   padding: 0px; /* Значение полей */
- margin-left: 0px;
+  margin-left: 0px;
   color: #212121;
 }
 .hr li {
@@ -69,25 +67,25 @@ font-family: Roboto;
   line-height: 16px;
   letter-spacing: 0.02em;
 }
-.studio-link
-{text-decoration: none;
-  color: #2196F3;
+.studio-link {
+  text-decoration: none;
+  color: #2196f3;
 }
-.portfolio
-{text-decoration: none;
+.portfolio {
+  text-decoration: none;
   font-family: Roboto;
   margin-left: 45px;
-color: #212121;
+  color: #212121;
 }
-.Contacts
-{text-decoration: none;
-margin-left: 45px;
-color: #212121;
+.Contacts {
+  text-decoration: none;
+  margin-left: 45px;
+  color: #212121;
 }
 .cr {
   margin: 0; /* Обнуляем значение отступов */
   padding: 0px; /* Значение полей */
- margin-left: 0px;
+  margin-left: 0px;
   color: #212121;
 }
 .cr li {
@@ -101,8 +99,7 @@ color: #212121;
   line-height: 16px;
   letter-spacing: 0.02em;
 }
-.mail
-{
+.mail {
   text-decoration: none;
   position: absolute;
   width: 135px;
@@ -115,86 +112,81 @@ color: #212121;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-  color: #2196F3;
+  color: #2196f3;
 }
-.tel
-{
+.tel {
   text-decoration: none;
   position: absolute;
-width: 122px;
-height: 16px;
-left: 1263px;
-top: 32px;
-font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-color: #757575;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
 }
-.hero
-{/* Шапка */
+.hero {
+  /* Шапка */
 
   position: relative;
   width: 1600px;
   height: 600px;
   left: 0px;
   top: 80px;
-  background: #2F303A;
-  }
-  .slogan
-  {
-    position: absolute;
-width: 696px;
-height: 120px;
-left: 452px;
-top: 170px;
-font-family: Roboto;
-font-style: normal;
-font-weight: 900;
-font-size: 44px;
-line-height: 60px;
-/* or 136% */
-text-align: center;
-letter-spacing: 0.06em;
-text-transform: uppercase;
-color: #FFFFFF;
-  }
-  .batton
-  {
-    /* Button */
-    position: relative;
-    width: 200px;
-    height: 50px;
-    left: 700px;
-    top: 350px;
-    background: #2196F3;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
-  }
-  .batton_text
-  {position: absolute;
-    width: 145px;
-    height: 30px;
-    left: 32px;
-    top: 9px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 16px;
-    /* identical to box height, or 187% */
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;
-    color: #FFFFFF;
-  }
- 
-  }
- ul.advantages li
-  {
-    display:inline; /* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
-  }
+  background: #2f303a;
+}
+.slogan {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 170px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.batton {
+  /* Button */
+  position: relative;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 350px;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+.batton_text {
+  position: absolute;
+  width: 145px;
+  height: 30px;
+  left: 32px;
+  top: 9px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  /* identical to box height, or 187% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+}
+
+ul.advantages li {
+  display: inline; /* Отображать как строчный элемент */
+  margin-right: 5px; /* Отступ слева */
+}

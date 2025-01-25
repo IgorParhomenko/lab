@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    background-color: blue;
+}
+.nav-list{
+    display: flex;
+}
+.nav-list{
+    display: block;
+    padding: 1em;
+    background-color: blue;
+}

@@ -1,12 +1,25 @@
+
 .navbar{
     display: flex;
-    background-color: blue;
+    background-image: url(/img/Ukraine-Deutschland_Flagge111_darkness.jpg);
+    background-position: center;
+    background-size: 150% 150%;
 }
 .nav-list{
     display: flex;
 }
-.nav-list{
+.nav-list a{
     display: block;
-    padding: 1em;
-    background-color: blue;
+     padding-inline: 1em;
+     padding-top: 4px;
+    text-decoration: none;
+    color: white;
+
+}
+.nav-text{
+    color: white;
+}
+.nav-text-block{
+    position: relative;
+    margin-left: 10em;
 }
